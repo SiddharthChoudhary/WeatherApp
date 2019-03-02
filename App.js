@@ -14,7 +14,6 @@ import {
   ScrollView,
 } from "react-native"
 
-import fetchWeather from "./api/api"
 import weatherIcon from "./utils/icons"
 
 class App extends React.Component{
