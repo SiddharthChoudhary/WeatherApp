@@ -7,9 +7,18 @@
     "test": "jest"
   },
   "dependencies": {
+    "d3": "^5.9.1",
+    "https-proxy-agent": "^2.2.1",
+    "prop-types": "^15.7.2",
     "react": "16.6.3",
     "react-native": "0.58.6",
-    "react-native-keyboardevents": "^0.4.5"
+    "react-native-gesture-handler": "^1.0.17",
+    "react-native-keyboardevents": "^0.4.5",
+    "react-native-overlay": "^0.5.0",
+    "react-native-pure-chart": "0.0.24",
+    "react-native-push-notification": "^3.1.2",
+    "react-native-svg": "^9.2.4",
+    "react-navigation": "^3.3.2"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
