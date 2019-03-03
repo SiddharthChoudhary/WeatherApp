@@ -13,7 +13,7 @@ Installation:
   - $ react-native start 
   
   (for starting the server through react-native, initiate this command by going in the project directory)
-  - then run, $ react-native run-ios 
+  - then run in a new terminal, $ react-native run-ios 
   
   (this command start building and running on XCODE simulator)
   
